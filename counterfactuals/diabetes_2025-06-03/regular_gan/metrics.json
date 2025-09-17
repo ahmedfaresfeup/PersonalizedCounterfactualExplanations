@@ -1,0 +1,1 @@
+{"reconstruction_error": "2.605 \u00b1 0.086", "prediction_gain": "0.012 \u00b1 0.014", "sparsity": "4.959 \u00b1 0.278", "latency": "0.766 \u00b1 0.024", "latency_batch": "117.948"}
